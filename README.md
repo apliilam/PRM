@@ -1,2 +1,2 @@
 # PRM
-Property Release maker project
+Property Release maker - application for simple create Property Release
